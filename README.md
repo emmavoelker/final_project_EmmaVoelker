@@ -12,4 +12,4 @@ Art Education and Academic Performance: Investigate the correlation between expo
 ### Working Copy of Datasets 
 ### First Sketches 
 ### Method and Mediums 
-I plan to complete my final project in Shorthand, as discussed in class. I have never used the platform before, and one of my personal goals for the class 
+I plan to complete my final project in Shorthand, as discussed in class. I have never used the platform before, and one of my personal goals for this course was to learn and engage with new software and forms of displaying data visuals. I plan to create a project that you can scroll through and that tells a story in a comprehensive but detailed way.  
