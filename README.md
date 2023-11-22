@@ -9,6 +9,11 @@ Being an artist myself and studying arts management, I of course believe greatly
 
 Art Education and Academic Performance: Investigate the correlation between exposure to art education (in schools or extracurricular activities) and academic performance. Analyze academic data alongside participation in art programs.
 
+The project outline is as follows:
+
+![Screen Shot 2023-11-21 at 11 56 27 PM](https://github.com/emmavoelker/final_project_EmmaVoelker/assets/149551887/394eb1b8-be04-440d-8617-ae26da385269)
+
+
 ### Working Copy of Datasets 
 #### First Data Set 
 Link: https://catalog.data.gov/dataset/2019-2020-arts-survey-data
