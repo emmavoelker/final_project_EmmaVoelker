@@ -49,6 +49,9 @@ Lastly, I am including this final data set in the hope that I am able to access 
 If I am not able to access the orignial dataset, I hope to reference points and data already synthesized in this study within my own data story (again with proper citations and credit). 
 
 ### First Sketches 
+As a working first draft, I plan to include the following illustrated data visualization types. As for some of the breakdowns regarding classes taken, current attitudes towards the implementation of arts education, etc., I also intend to use pie charts. Each of the included headings correlates to the determined numbers on my outline, as I intend to structure the project in this way. Though the data contained under each section will be a wide variety of topics, the headings seek to include all discussed data in a way that is engaging and attention-grabbing. 
+
+![Screen Shot 2023-11-22 at 12 14 52 AM](https://github.com/emmavoelker/final_project_EmmaVoelker/assets/149551887/5575a4b8-9a3d-4efb-9344-f8bd40c5ba3f)
 
 ### Method and Mediums 
 I plan to complete my final project in Shorthand, as discussed in class. I have never used the platform before, and one of my personal goals for this course was to learn and engage with new software and methods of displaying data visuals. I plan to create a project that viewers can scroll through and that tells a story in a comprehensive but detailed manner.  
