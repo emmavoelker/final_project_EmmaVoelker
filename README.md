@@ -54,4 +54,14 @@ As a working first draft, I plan to include the following illustrated data visua
 ![Screen Shot 2023-11-22 at 12 14 52 AM](https://github.com/emmavoelker/final_project_EmmaVoelker/assets/149551887/5575a4b8-9a3d-4efb-9344-f8bd40c5ba3f)
 
 ### Method and Mediums 
-I plan to complete my final project in Shorthand, as discussed in class. I have never used the platform before, and one of my personal goals for this course was to learn and engage with new software and methods of displaying data visuals. I plan to create a project that viewers can scroll through and that tells a story in a comprehensive but detailed manner.  
+I plan to complete my final project in Shorthand, as discussed in class. I have never used the platform before, and one of my personal goals for this course was to learn and engage with new software and methods of displaying data visuals. I plan to create a project that viewers can scroll through and that tells a story in a comprehensive but detailed manner.
+
+
+## Part Two 
+
+### Storyboard 
+![Mood Board](https://github.com/emmavoelker/final_project_EmmaVoelker/assets/149551887/d695165e-0387-47ff-8f5d-45fde2756d30)
+
+Within my storyboard, I determined a set color scheme for the final project, as well as a font family I'd like to use. The Georgia font family is one commonly found in online applications and is available on ShortHand. 
+
+The included photos come from a report by Americans for the Arts, found here: https://www.miarted.org/pdf/AFTA-Arts-Education-Navigator-Facts-Figures.pdf The photos demonstrate the type of visualizations that I'd like to include within my own visuals and storytelling. I like the usage of call-out statistics for effect and emphasis, and that the majority of included visuals emphasize a particular aspect of the data. They are not overcrowded or attempt to display large amounts of information at a time. Rather, these visuals showcase a particular aspect of the data that is then dissected with meaningful dialogue and context. For example, the circle graph visual calls out dropout rates for students in low-income schools. The visual could have easily been overcrowded by the inclusion of data like the names of particular schools, or a breakdown of specific arts classes. Instead, the data is simple and meaningful, and audiences are able to easily read the visual while understanding the importance and implication of data points. 
