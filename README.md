@@ -58,8 +58,19 @@ I plan to complete my final project in Shorthand, as discussed in class. I have 
 
 
 ## Part Two 
+### Wireframes & Storyboards 
 
-### Storyboard 
+### User Research and Interviews 
+#### Components of the Research Protocol 
+Target audience: 1) Parents with children in K-12 schooling 2) Casual art enjoyers 3) Art Educators 
+Approach to identifying representative individuals to interview: 
+
+#### Interview Script & Findings 
+d. the findings from your interviews; and 
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+#### Implemented Changes  
+
+### Moodboard 
 ![Mood Board](https://github.com/emmavoelker/final_project_EmmaVoelker/assets/149551887/d695165e-0387-47ff-8f5d-45fde2756d30)
 
 Within my storyboard, I determined a set color scheme for the final project, as well as a font family I'd like to use. The Georgia font family is one commonly found in online applications and is available on ShortHand. 
