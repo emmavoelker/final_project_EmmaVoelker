@@ -63,7 +63,8 @@ I plan to complete my final project in Shorthand, as discussed in class. I have 
 ### User Research and Interviews 
 #### Components of the Research Protocol 
 Target audience: 1) Parents with children in K-12 schooling 2) Casual art enjoyers 3) Art Educators 
-Approach to identifying representative individuals to interview: 
+
+In identifying representative individuals to interview, I wanted to interview some Heinz College peers, as they are also studying arts management and would not only be interested in the topic, but have a stake in the results. I also interviewed someone who does not fall into my defined "target audience" to observe if they had any additional comments or criticisms that my target audience did not identify. 
 
 #### Interview Script & Findings 
 d. the findings from your interviews; and 
