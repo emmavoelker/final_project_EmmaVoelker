@@ -55,3 +55,5 @@ As a working first draft, I plan to include the following illustrated data visua
 
 ### Method and Mediums 
 I plan to complete my final project in Shorthand, as discussed in class. I have never used the platform before, and one of my personal goals for this course was to learn and engage with new software and methods of displaying data visuals. I plan to create a project that viewers can scroll through and that tells a story in a comprehensive but detailed manner.
+
+View Part Two of the Project Here.
